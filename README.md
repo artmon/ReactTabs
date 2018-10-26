@@ -1,2 +1,0 @@
-# ReactTabs
-Created with CodeSandbox
